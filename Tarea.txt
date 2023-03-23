@@ -1,0 +1,26 @@
+iniciamos verificando si tenemos git intalado, eso lo hacemos poniendo en la terminal: git --version 
+
+despues de eso le damos ponemos el comando "git init", el se utiliza para inicializar un nuevo repositorio de Git en un directorio vacío o existente en la computadora
+ 
+ Ya puedo empezar a trabajar y se estara haciendo el seguimiento de los cambios 
+
+ puedo añadir cambios con el comando "git add "el nombre del archivo""
+
+ despues se puede comfirmar el comfirmar los cambios con el comando "git -m commit "frase de que se cambio"
+
+ para crear conectar el repositorio de la computadora a git hub
+
+ 1. Creamos una cuenta en github 
+ 2. Creamos un nuevo repositorio, solo ponemos nombre y que sea publico
+ 3. Nos dara los siguientes comandos:
+    git remote add origin https://github.com/Dramalunar/Tarea.git
+    git branch -M main
+    git push -u origin main
+
+ Introducimos el primer comando que se utiliza para agregar un nuevo repositorio remoto a tu proyecto de Git 
+
+ luego ingresamos el segundo que es para cambiar el nombre de la rama actual 
+
+ Por ultimo el 3 comando es para empujar los cambios al repositorio remoto
+
+ 
