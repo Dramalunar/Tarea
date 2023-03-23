@@ -23,4 +23,4 @@ despues de eso le damos ponemos el comando "git init", el se utiliza para inicia
 
  Por ultimo el 3 comando es para empujar los cambios al repositorio remoto
 
- 
+ Edgar David Almeida Ortiz
